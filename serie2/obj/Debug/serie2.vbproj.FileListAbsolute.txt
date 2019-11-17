@@ -1,0 +1,11 @@
+C:\Users\Mahdi Chtourou\AppData\Local\Temporary Projects\serie2\bin\Debug\serie2.exe.config
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\serie2\serie2\bin\Debug\serie2.exe.config
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\serie2\serie2\bin\Debug\serie2.exe
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\serie2\serie2\bin\Debug\serie2.pdb
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\serie2\serie2\bin\Debug\serie2.xml
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\serie2\serie2\obj\Debug\serie2.Resources.resources
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\serie2\serie2\obj\Debug\serie2.S2EX4.resources
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\serie2\serie2\obj\Debug\serie2.vbproj.GenerateResource.Cache
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\serie2\serie2\obj\Debug\serie2.exe
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\serie2\serie2\obj\Debug\serie2.xml
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\serie2\serie2\obj\Debug\serie2.pdb
